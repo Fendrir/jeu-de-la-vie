@@ -1,5 +1,6 @@
 console.log("Salut toi");
 
+
 $("#valider").click(function(){
     var line = $("#line").val() ;
     var col = $("#col").val() ;
